@@ -31,7 +31,6 @@ Developed as a case study for the Alexander Black House, this system enables vis
 
    ```bash
    git clone https://github.com/elhamhuq1/AI-Museum-Navigator.git
-   cd ai-tourism
    ```
 
 2. **Create a virtual environment**
