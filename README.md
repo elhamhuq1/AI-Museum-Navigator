@@ -30,7 +30,7 @@ Developed as a case study for the Alexander Black House, this system enables vis
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/elhamhuq1/AI-Museum-Navigator.git
    cd ai-tourism
    ```
 
@@ -51,7 +51,6 @@ Developed as a case study for the Alexander Black House, this system enables vis
 
  - Get a Qdrant API key and URL from: https://qdrant.to/cloud
  - Get a OpenAI API key from: https://platform.openai.com/api-keys
-   ```
 
 ##  Usage
 
